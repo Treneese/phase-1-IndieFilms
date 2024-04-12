@@ -1,1 +1,59 @@
-{}
+{
+    "films": [
+      {
+        "id" : 1,
+        "name" : "Minari",
+        "video" : "https://www.youtube.com/watch?v=KQ0gFidlro8",
+        "about" :"A Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a home.",
+        "director" : "Lee Isaac Chung",
+        "writers" : "Lee Isaac Chung",
+        "cast/crew" : "Steven Yeun, Yeri Han, Alan Kim, Noel Kate Cho, and Yuh-Jung Youn"
+      },
+      {
+        "id" : 2,
+        "name" : "A Song from the Dark",
+        "video" : "https://www.youtube.com/watch?v=UwH8Gqt1c_w",
+        "about" :"After the mysterious death of her husband, a woman hires a reluctant spirit hunter to expel an evil spirit tormenting her family. Unknown to the spirit hunter, the family has a dark secret that they have sworn to keep hidden at all cost.",
+        "director" : "Ogodinife Okpue",
+        "writers" : "Ogodinife Okpue" ,
+        "cast/crew" : "Ryan Spong, Wale Ojo, Dean Kilbey, Lola Wayne, Isioma Williams, Vanessa Vanderpuye, and Kane Surry"
+      },
+      { 
+        "id" : 3,
+        "name" : "Rye Lane",
+        "video" : "https://www.youtube.com/watch?v=SqcF_GI3mOA",
+        "about" :"Two youngsters reeling from bad breakups connect over an eventful day in South London.",
+        "director" : "Raine Allen-Miller",
+        "writers" : "Nathan Bryon, Tom Melia" ,
+        "cast/crew" : "David Jonsson, Vivian Oparah, Poppy Allen-Quarmby, Charlie Knight, Simon Manyonda"
+      },
+      {
+      "id" : 4,
+      "name" : "Summer Of Violence",
+      "video" : "https://www.youtube.com/watch?v=iExuKEhwL7o",
+      "about" : "It tells the story of Naomi, who turns down law school to pursue poetry. She struggles to survive in 1993 Denver, after being cut off during a period of violent crime in the city known as the Summer of Violence.",
+      "director" : "Nicki Micheaux",
+      "writers" : "Nicki Micheaux" ,
+      "cast/crew" : "Kasey Inez, Jahking Guillory, Damon Gupton, Madhulika Krishnan, Pedro Correa, and Shon Wilson"
+    },
+    {
+    "id" : 5,
+    "name" : "Polite Society",
+    "video" : "https://www.youtube.com/watch?v=TRFM7HQmkH0",
+    "about" :"Ria Khan believes she must save her older sister Lena from her impending marriage. After enlisting her friends' help, she attempts to pull off the most ambitious of all wedding heists in the name of independence and sisterhood.",
+    "director" : "Nida Manzoor",
+    "writers" : "Nida Manzoor" ,
+    "cast/crew" : "Priya Kansara, Ritu Arya, Renu Brindle, Rekha John-Cheriyan, Seraphina Beh, and Ella Bruccoleri"
+  },
+  {
+  "id" : 6,
+  "name" : "Sthal (A Match)",
+  "video" : "https://www.youtube.com/watch?v=3qQADbYafM0",
+  "about" :"It explores the tradition of arranged marriage in rural India, where a girl's marriage overshadows the very sustenance of life. Narrated from the perspective of a young girl, Savita, it highlights the patriarchy rooted in society.",
+  "director" : "Jayant Digambar Somalkar",
+  "writers" : "Jayant Digambar Somalkar" ,
+  "cast/crew" : "Nandini Chikte, Taranath Khiratkar, Sangita Sonekar, Suyog Dhawas, Sandip Somalkar, and Sandip Parkhi"
+}
+      
+    ]
+  }
