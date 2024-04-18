@@ -2,10 +2,58 @@
 <html lang="en">
   <head>
     <link rel="stylesheet" href="style.css" />
-    <title>Short Indie Films</title>
+    <title> Indie Films</title>
+    <script defer src="script.js"></script>
   </head>
   <body>
-    <h1>Short Indie Films</h1>
-    <script src="script.js"></script>
-  </body>
+  <section class="showcase">
+    <header>
+      <h2 class="logo">Indie Films</h2>
+      <div class="toggle"></div>
+    </header>
+    <video src="phase 1 background.mp4" muted loop autoplay></video>
+    
+    <div class="overlay"></div>
+    <ul id="apiListObj" style="display: none;"></ul>
+    <div class="text">
+     <iframe class="video" width="560" height="315"  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <h3 class="name"></h3>
+      <p1>Summary:</p1>
+      <p1 class="about"></p1>
+      <p2>Director:</p2>
+      <p2 class="director"></p2>
+      <p3>Writer:</p3>
+      <p3 class="writer"></p3>
+      <p4>Cast:</p4>
+      <p4 class="cast"></p4>
+    </ul>
+  </div>
+ <div id="buttonContainer">
+    <!-- <div class="comment">
+        <form id="comment-form">
+          <label for="username">Name:</label>
+          <input type="text" id="username" name="username" required>
+    
+          <label for="comment">Comment:</label>
+          <input type="text" id="comment" comment="comment" required>
+          <a href="#">Comment</a> -->
+   
+  
+  </section>
+  <div class="menu">
+    <ul id="apiList">
+      <li class="menu-title">Films</li>
+      <li><button id="showButton1">Minari</button></li>
+      <li><button id="showButton2">A Song from the Dark</button></li>
+      <li><button id="showButton3">Rye Lane</button></li>
+      <li><button id="showButton4">Summer Of Violence</button></li>
+      <li><button id="showButton5">Polite Society</button></li>
+      <li><button id="showButton6">Sthal (A Match)</button></li>
+      
+    </ul>
+  </div>
+  </div>
+</body>
 </html>
+
+
